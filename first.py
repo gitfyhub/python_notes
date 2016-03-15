@@ -2,7 +2,7 @@ foods = ['apples','tuna','oranges','fish'];
 
 for f in foods:
     print(f)
-
+    print(len(f))
 
 
 '''
