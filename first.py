@@ -1,9 +1,26 @@
+# count by 2
+for x in range(0,20, 2):
+    print(x)
+
+'''
+# start from 0 go to 10
+for x in range(0,10):
+    print(x)
+'''
+
+'''
+for x in range(100):
+    print("Bucky is awesome")
+'''
+
+
+'''
 foods = ['apples','tuna','oranges','fish'];
 
 for f in foods:
     print(f)
     print(len(f))
-
+'''
 
 '''
 #name = "Tonny D"
@@ -18,9 +35,6 @@ elif name is "Sammy":
 else:
     print("Please sign up for the site (inside else)")
 '''
-
-
-
 
 '''
 #-------------------
